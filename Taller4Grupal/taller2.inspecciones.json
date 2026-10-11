@@ -1,0 +1,497 @@
+[{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc200"
+  },
+  "reporte_id": "REP-0001",
+  "inspector": "Ing. Roberto Batista",
+  "fecha_visita": {
+    "$date": "2026-03-12T09:00:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "Se confirma bache de 1.1 m de diámetro y 15 cm de profundidad frente al mercado. No cuenta con señalización preventiva.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Medición del diámetro del bache",
+      "fecha_captura": {
+        "$date": "2026-03-12T09:10:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Vía sin señalización",
+      "fecha_captura": {
+        "$date": "2026-03-12T09:15:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc201"
+  },
+  "reporte_id": "REP-0001",
+  "inspector": "Téc. Yamileth Pérez",
+  "fecha_visita": {
+    "$date": "2026-03-20T10:30:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "Se colocaron conos y letrero de peligro. La reparación con asfalto quedó programada para la próxima semana.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Conos y señalización temporal",
+      "fecha_captura": {
+        "$date": "2026-03-20T10:40:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc202"
+  },
+  "reporte_id": "REP-0001",
+  "inspector": "Ing. Roberto Batista",
+  "fecha_visita": {
+    "$date": "2026-04-05T08:45:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "Las lluvias aumentaron el bache a 1.4 m. El relleno temporal de material selecto se desprendió.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Bache ampliado por lluvias",
+      "fecha_captura": {
+        "$date": "2026-04-05T08:55:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Relleno temporal desprendido",
+      "fecha_captura": {
+        "$date": "2026-04-05T09:00:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc203"
+  },
+  "reporte_id": "REP-0001",
+  "inspector": "Téc. Yamileth Pérez",
+  "fecha_visita": {
+    "$date": "2026-04-22T09:15:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "Señalización en buen estado. Pendiente la asignación de la cuadrilla de asfalto del MOP.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Estado actual del bache señalizado",
+      "fecha_captura": {
+        "$date": "2026-04-22T09:20:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc204"
+  },
+  "reporte_id": "REP-0002",
+  "inspector": "Ing. Luis Caballero",
+  "fecha_visita": {
+    "$date": "2024-06-12T10:00:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "Se confirman 4 alcantarillas sin tapa en la calle 28. Dos de ellas están sobre el paso peatonal frente a la farmacia.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Alcantarilla abierta en paso peatonal",
+      "fecha_captura": {
+        "$date": "2024-06-12T10:10:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Vista general de la calle 28",
+      "fecha_captura": {
+        "$date": "2024-06-12T10:15:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc205"
+  },
+  "reporte_id": "REP-0002",
+  "inspector": "Téc. Iván Montenegro",
+  "fecha_visita": {
+    "$date": "2024-06-20T14:00:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "Se instalaron 2 tapas nuevas. Las 2 alcantarillas restantes fueron acordonadas con cinta y barreras.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Tapa nueva instalada",
+      "fecha_captura": {
+        "$date": "2024-06-20T14:10:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Alcantarilla acordonada",
+      "fecha_captura": {
+        "$date": "2024-06-20T14:15:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc206"
+  },
+  "reporte_id": "REP-0002",
+  "inspector": "Ing. Luis Caballero",
+  "fecha_visita": {
+    "$date": "2024-07-03T09:30:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "Una de las tapas instaladas no corresponde al diámetro del brocal y se desplaza al pisarla. Debe reemplazarse.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Tapa con diámetro incorrecto",
+      "fecha_captura": {
+        "$date": "2024-07-03T09:40:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc207"
+  },
+  "reporte_id": "REP-0002",
+  "inspector": "Téc. Iván Montenegro",
+  "fecha_visita": {
+    "$date": "2024-07-18T11:00:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "Se corrigió la tapa defectuosa y se instaló una tercera. Falta una tapa, a la espera de despacho del almacén.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Tapa reemplazada correctamente",
+      "fecha_captura": {
+        "$date": "2024-07-18T11:10:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Última alcantarilla pendiente",
+      "fecha_captura": {
+        "$date": "2024-07-18T11:15:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc208"
+  },
+  "reporte_id": "REP-0003",
+  "inspector": "Biol. Carmen Ríos",
+  "fecha_visita": {
+    "$date": "2026-05-09T07:30:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "Se confirma la presencia de un cocodrilo de aprox. 2 m sobre la vía. Se acordonó el área y se desvió el tránsito.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Cocodrilo sobre la vía",
+      "fecha_captura": {
+        "$date": "2026-05-09T07:35:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Área acordonada",
+      "fecha_captura": {
+        "$date": "2026-05-09T07:45:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc209"
+  },
+  "reporte_id": "REP-0003",
+  "inspector": "Téc. Abdiel Gómez",
+  "fecha_visita": {
+    "$date": "2026-05-09T16:00:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "El ejemplar fue capturado por el equipo de rescate de fauna. Se encuentra en traslado para su reubicación.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Ejemplar capturado",
+      "fecha_captura": {
+        "$date": "2026-05-09T16:10:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc20a"
+  },
+  "reporte_id": "REP-0003",
+  "inspector": "Biol. Carmen Ríos",
+  "fecha_visita": {
+    "$date": "2026-05-16T08:00:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "El caño El Gallo sigue con nivel alto. Se instalaron letreros de advertencia de fauna silvestre en ambos sentidos de la vía.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Nivel del caño El Gallo",
+      "fecha_captura": {
+        "$date": "2026-05-16T08:10:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Letrero de advertencia de fauna",
+      "fecha_captura": {
+        "$date": "2026-05-16T08:20:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc20b"
+  },
+  "reporte_id": "REP-0003",
+  "inspector": "Téc. Abdiel Gómez",
+  "fecha_visita": {
+    "$date": "2026-05-30T09:00:00.000Z"
+  },
+  "resultado": "conforme",
+  "observaciones": "Sin nuevos avistamientos en dos semanas. El caño volvió a su nivel normal y los letreros permanecen en su lugar.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Caño en nivel normal",
+      "fecha_captura": {
+        "$date": "2026-05-30T09:10:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc20c"
+  },
+  "reporte_id": "REP-0004",
+  "inspector": "Téc. Jorge Villarreal",
+  "fecha_visita": {
+    "$date": "2024-06-13T08:30:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "Poste caído sobre la acera con cables energizados. Se solicitó corte del circuito y se acordonó el área.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Poste caído sobre la acera",
+      "fecha_captura": {
+        "$date": "2024-06-13T08:35:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Cables expuestos",
+      "fecha_captura": {
+        "$date": "2024-06-13T08:40:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc20d"
+  },
+  "reporte_id": "REP-0004",
+  "inspector": "Ing. Patricia Núñez",
+  "fecha_visita": {
+    "$date": "2024-06-14T10:00:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "La cuadrilla retiró el poste dañado. Los cables quedaron aislados de forma provisional y sin energía.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Área despejada tras retiro del poste",
+      "fecha_captura": {
+        "$date": "2024-06-14T10:10:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc20e"
+  },
+  "reporte_id": "REP-0004",
+  "inspector": "Téc. Jorge Villarreal",
+  "fecha_visita": {
+    "$date": "2024-06-21T09:00:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "Se instaló el poste nuevo. Falta montar la luminaria y realizar la reconexión al circuito.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Poste nuevo instalado",
+      "fecha_captura": {
+        "$date": "2024-06-21T09:10:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc20f"
+  },
+  "reporte_id": "REP-0004",
+  "inspector": "Ing. Patricia Núñez",
+  "fecha_visita": {
+    "$date": "2024-06-28T19:00:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "La luminaria fue instalada y reconectada, pero no enciende en la noche. Se presume falla en la fotocelda.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Luminaria apagada en horario nocturno",
+      "fecha_captura": {
+        "$date": "2024-06-28T19:10:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Fotocelda de la luminaria",
+      "fecha_captura": {
+        "$date": "2024-06-28T19:15:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc210"
+  },
+  "reporte_id": "REP-0005",
+  "inspector": "Ing. Daniela Saavedra",
+  "fecha_visita": {
+    "$date": "2026-05-03T08:00:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "Se confirma fuga en tubería de 4 pulgadas bajo la acera. El agua cubre la mitad del carril derecho.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Agua brotando de la acera",
+      "fecha_captura": {
+        "$date": "2026-05-03T08:10:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Carril inundado",
+      "fecha_captura": {
+        "$date": "2026-05-03T08:15:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc211"
+  },
+  "reporte_id": "REP-0005",
+  "inspector": "Téc. Ernesto Quintero",
+  "fecha_visita": {
+    "$date": "2026-05-06T13:30:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "Se cerró parcialmente la válvula del sector. El caudal de la fuga se redujo, pero no se detuvo.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Válvula de sector parcialmente cerrada",
+      "fecha_captura": {
+        "$date": "2026-05-06T13:40:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc212"
+  },
+  "reporte_id": "REP-0005",
+  "inspector": "Ing. Daniela Saavedra",
+  "fecha_visita": {
+    "$date": "2026-05-14T09:00:00.000Z"
+  },
+  "resultado": "no_conforme",
+  "observaciones": "La fuga aumentó y provocó socavamiento bajo la acera. Riesgo de hundimiento para peatones.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Socavamiento bajo la acera",
+      "fecha_captura": {
+        "$date": "2026-05-14T09:10:00.000Z"
+      }
+    },
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Grieta en la acera",
+      "fecha_captura": {
+        "$date": "2026-05-14T09:15:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac6b01237f1438885abc213"
+  },
+  "reporte_id": "REP-0005",
+  "inspector": "Téc. Ernesto Quintero",
+  "fecha_visita": {
+    "$date": "2026-05-25T10:00:00.000Z"
+  },
+  "resultado": "en_seguimiento",
+  "observaciones": "Se acordonó la acera afectada. La excavación para reparar la tubería espera el permiso de cierre de calle.",
+  "fotos_inspeccion": [
+    {
+      "url": "https://placehold.co/600x400",
+      "descripcion": "Acera acordonada",
+      "fecha_captura": {
+        "$date": "2026-05-25T10:10:00.000Z"
+      }
+    }
+  ]
+}]
