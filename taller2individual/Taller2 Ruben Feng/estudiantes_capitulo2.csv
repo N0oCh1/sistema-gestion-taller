@@ -1,0 +1,25 @@
+ID;Nombre;Grupo;Carrera;Nivel_Ingles;Talla_Camiseta;Lab1;Lab2;Lab3;Nota_Final
+EST001;Estudiante 01;1SF142;Ingenieria en Sistemas;Basico;S;86.9;71.5;72.8;77.1
+EST002;Estudiante 02;1SF142;Ingenieria Electromecanica;Intermedio;L;82.4;86.4;92.3;87
+EST003;Estudiante 03;1SF141;Ingenieria Industrial;Basico;M;75.4;74.2;87.7;79.1
+EST004;Estudiante 04;1SF142;Ingenieria en Sistemas;Avanzado;M;82.7;78.7;83.5;81.6
+EST005;Estudiante 05;1SF142;Ingenieria Civil;Avanzado;M;90;67;93.2;83.4
+EST006;Estudiante 06;1SF141;Ingenieria Electromecanica;Intermedio;M;79;93.8;68.6;80.5
+EST007;Estudiante 07;1SF141;Ingenieria Civil;Avanzado;L;79;51.4;93.1;74.5
+EST008;Estudiante 08;1SF141;Ingenieria Electromecanica;Basico;S;81.4;77.1;87.7;82.1
+EST009;Estudiante 09;1SF142;Ingenieria en Sistemas;Intermedio;L;85.5;85;77.1;82.5
+EST010;Estudiante 10;1SF141;Ingenieria Electromecanica;Basico;L;92.2;57.7;88;79.3
+EST011;Estudiante 11;1SF142;Ingenieria Civil;Intermedio;XL;76.9;76.1;82.9;78.6
+EST012;Estudiante 12;1SF141;Ingenieria Industrial;Basico;S;86.1;77.2;100;87.8
+EST013;Estudiante 13;1SF142;Ingenieria Electromecanica;Basico;XL;83.7;86.2;97.8;89.2
+EST014;Estudiante 14;1SF141;Ingenieria Electromecanica;Intermedio;S;67.1;90.5;88.1;81.9
+EST015;Estudiante 15;1SF141;Ingenieria Industrial;Basico;L;78.6;74;80;77.5
+EST016;Estudiante 16;1SF141;Ingenieria Electromecanica;Basico;L;80.9;64.2;80.9;75.3
+EST017;Estudiante 17;1SF141;Ingenieria Electromecanica;Basico;S;81.7;91.7;82.7;85.4
+EST018;Estudiante 18;1SF142;Ingenieria Electromecanica;Intermedio;S;84.6;90.2;81.1;85.3
+EST019;Estudiante 19;1SF142;Ingenieria Civil;Intermedio;L;65.7;73.4;78.7;72.6
+EST020;Estudiante 20;1SF142;Ingenieria en Sistemas;Basico;L;82.4;81.5;80.9;81.6
+EST021;Estudiante 21;1SF142;Ingenieria en Sistemas;Intermedio;S;76.6;81.8;83.1;80.5
+EST022;Estudiante 22;1SF142;Ingenieria en Sistemas;Intermedio;L;70.5;83.7;81.4;78.5
+EST023;Estudiante 23;1SF141;Ingenieria Industrial;Intermedio;S;86.2;80;80.1;82.1
+EST024;Estudiante 24;1SF142;Ingenieria Electromecanica;Intermedio;M;87.9;92.1;78.5;86.2

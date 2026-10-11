@@ -1,0 +1,175 @@
+[
+  {
+    "reporte_id": "REP-0001",
+    "titulo": "Bache en vía principal de Chilibre",
+    "descripcion": "Bache de aproximadamente 1 metro de diámetro en la vía principal de Chilibre, representa riesgo para vehículos y motociclistas, especialmente en horas nocturnas.",
+    "categoria": "infraestructura",
+    "subcategoria": "bache",
+    "estado": "pendiente",
+    "prioridad": "alta",
+    "tags": ["bache", "carretera", "riesgo vial"],
+    "foto_principal": "https://res.cloudinary.com/dhw0kv4si/image/upload/v1778501813/bacheChilibre_u7ypkk.avif",
+    "verificado": false,
+    "ubicacion": {
+      "direccion": "Vía principal de Chilibre, frente al mercado",
+      "corregimiento": "Chilibre",
+      "distrito": "Panamá",
+      "referencia": "Frente al mercado municipal"
+    },
+    "ciudadano": {
+      "ciudadano_id": "CID-2024-0041",
+      "nombre": "Ricardo Morales",
+      "contacto": "6712-3344",
+      "anonimo": false
+    },
+    "seguimiento": {
+      "entidad_id": "MOP-PANAMA",
+      "inspector": null,
+      "fecha_cierre": null,
+      "comentarios": []
+    },
+    "fecha_reporte": { "$date": "2026-03-10T08:30:00Z" }
+  },
+  {
+    "reporte_id": "REP-0002",
+    "titulo": "Alcantarillas sin tapa en Don Bosco",
+    "descripcion": "Varias alcantarillas sin tapa en la calle 28 del corregimiento de Don Bosco. Representan un peligro grave para peatones, especialmente niños y adultos mayores.",
+    "categoria": "infraestructura",
+    "subcategoria": "alcantarillado",
+    "estado": "en_proceso",
+    "prioridad": "critica",
+    "tags": ["alcantarilla", "peatones", "peligro", "urgente"],
+    "foto_principal": "https://res.cloudinary.com/dhw0kv4si/image/upload/v1778501814/alcantarillasintapa_jj68cm.jpg",
+    "verificado": true,
+    "ubicacion": {
+      "direccion": "Calle 28, Don Bosco",
+      "corregimiento": "Don Bosco",
+      "distrito": "Panamá",
+      "referencia": "Entre Av. Cuba y Av. Perú, frente a farmacia"
+    },
+    "ciudadano": {
+      "ciudadano_id": "CID-2024-0087",
+      "nombre": null,
+      "contacto": null,
+      "anonimo": true
+    },
+    "seguimiento": {
+      "entidad_id": "IDAAN-PANAMA",
+      "inspector": "Ing. Luis Caballero",
+      "fecha_cierre": null,
+      "comentarios": [
+        {
+          "autor": "Ing. Luis Caballero",
+          "texto": "Se verificó el reporte en sitio. Se solicitaron tapas de repuesto al almacén.",
+          "fecha": { "$date": "2026-06-12T10:00:00Z" }
+        }
+      ]
+    },
+    "fecha_reporte": { "$date": "2024-06-11T14:15:00Z" }
+  },
+  {
+    "reporte_id": "REP-0003",
+    "titulo": "Avistamiento de cocodrilo en carretera principal",
+    "descripcion": "Ciudadano reporta avistamiento de un cocodrilo de aproximadamente 2 metros sobre la vía en el corregimiento de Tocumen, cerca de un caño desbordado. Se tomaron fotos desde el vehículo.",
+    "categoria": "fauna_peligrosa",
+    "subcategoria": "reptil",
+    "estado": "resuelto",
+    "prioridad": "critica",
+    "tags": ["cocodrilo", "fauna", "carretera", "emergencia", "caño"],
+    "foto_principal": "https://res.cloudinary.com/dhw0kv4si/image/upload/v1778501814/colon-lagarto-calle_kzmo0p.jpg",
+    "verificado": true,
+    "ubicacion": {
+      "direccion": "Vía Tocumen, a 300m del caño El Gallo",
+      "corregimiento": "Tocumen",
+      "distrito": "Panamá",
+      "referencia": "Frente a gasolinera Shell, dirección aeropuerto"
+    },
+    "ciudadano": {
+      "ciudadano_id": "CID-2024-0102",
+      "nombre": "Marta Espinosa",
+      "contacto": "marta.espinosa@email.com",
+      "anonimo": false
+    },
+    "seguimiento": {
+      "entidad_id": "MiAmbiente-PANAMA",
+      "inspector": "Biol. Carmen Ríos",
+      "fecha_cierre": { "$date": "2024-06-09T17:30:00Z" },
+      "comentarios": [
+        {
+          "autor": "Biol. Carmen Ríos",
+          "texto": "Equipo de rescate de fauna silvestre atendió el caso. El ejemplar fue capturado y reubicado en su hábitat natural.",
+          "fecha": { "$date": "2024-06-09T17:30:00Z" }
+        }
+      ]
+    },
+    "fecha_reporte": { "$date": "2026-05-09T06:45:00Z" }
+  },
+  {
+    "reporte_id": "REP-0004",
+    "titulo": "Poste caído en San Isidro",
+    "descripcion": "Poste de alumbrado público caído sobre la acera en San Isidro, posiblemente derribado por viento fuerte la noche anterior. Hay cables expuestos que representan riesgo de electrocución.",
+    "categoria": "alumbrado_publico",
+    "subcategoria": "poste_caido",
+    "estado": "en_proceso",
+    "prioridad": "critica",
+    "tags": ["poste", "cables expuestos", "electrocución", "alumbrado", "urgente"],
+    "foto_principal": "https://res.cloudinary.com/dhw0kv4si/image/upload/v1778501814/caidaposte_xalxfn.webp",
+    "verificado": true,
+    "ubicacion": {
+      "direccion": "Calle Los Pinos, San Isidro",
+      "corregimiento": "San Isidro",
+      "distrito": "Panamá",
+      "referencia": "A 50 metros de la entrada principal de San Isidro, frente a cancha"
+    },
+    "ciudadano": {
+      "ciudadano_id": "CID-2024-0115",
+      "nombre": null,
+      "contacto": null,
+      "anonimo": true
+    },
+    "seguimiento": {
+      "entidad_id": "ENSA-PANAMA",
+      "inspector": "Téc. Jorge Villarreal",
+      "fecha_cierre": null,
+      "comentarios": [
+        {
+          "autor": "Téc. Jorge Villarreal",
+          "texto": "Se acordonó el área. Se espera cuadrilla para retiro de poste y reconexión.",
+          "fecha": { "$date": "2024-06-13T09:10:00Z" }
+        }
+      ]
+    },
+    "fecha_reporte": { "$date": "2024-06-13T07:00:00Z" }
+  },
+  {
+    "reporte_id": "REP-0005",
+    "titulo": "Fuga de agua potable en Parque Lefevre",
+    "descripcion": "Fuga visible de agua potable en la calle 79, Parque Lefevre. El agua lleva más de 12 horas brotando de la acera, inundando la calle y generando desperdicio significativo del recurso hídrico.",
+    "categoria": "servicios_publicos",
+    "subcategoria": "fuga_agua",
+    "estado": "pendiente",
+    "prioridad": "alta",
+    "tags": ["fuga", "agua potable", "IDAAN", "desperdicio", "inundacion"],
+    "foto_principal": "https://res.cloudinary.com/dhw0kv4si/image/upload/v1778501813/fugdeagua_xhvwty.jpg",
+    "verificado": false,
+    "ubicacion": {
+      "direccion": "Calle 79 Este, Parque Lefevre",
+      "corregimiento": "Parque Lefevre",
+      "distrito": "Panamá",
+      "referencia": "Frente a supermercado Rey de Parque Lefevre"
+    },
+    "ciudadano": {
+      "ciudadano_id": "CID-2024-0133",
+      "nombre": "Tomás Anguizola",
+      "contacto": "6890-1122",
+      "anonimo": false
+    },
+    "seguimiento": {
+      "entidad_id": "IDAAN-PANAMA",
+      "inspector": null,
+      "fecha_cierre": null,
+      "comentarios": []
+    },
+    "fecha_reporte": { "$date": "2026-05-02T20:00:00Z" }
+  }
+]
