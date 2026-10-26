@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/N0oCh1/sistema-gestion-taller/blob/main/Actividad3ViS/Actividad3VIS.ipynb
