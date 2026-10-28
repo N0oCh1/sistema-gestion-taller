@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Investigacion: archivos generados al ejecutar el notebook (~140 MB)
+Investigacion/datos_generados/
+Investigacion/dashboard_plotly.html

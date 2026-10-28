@@ -1,0 +1,2 @@
+Link: 
+https://colab.research.google.com/github/N0oCh1/sistema-gestion-taller/blob/main/Taller4Individual/Actividad4-python-RubenFeng.ipynb
